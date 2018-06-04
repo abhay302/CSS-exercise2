@@ -84,7 +84,7 @@ div#footer {
   padding: 20px 0px;
   clear: left; 
   background: #3cff78;
-  font: tahoma;
+  font-family: tahoma;
   font-size: 24px;
   color: black;
   text-align: center;
