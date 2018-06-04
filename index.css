@@ -1,88 +1,88 @@
 body {
-	margin: 0px;
-	padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #side_heading {
-	font-family: tahoma; 
-	font-size: 18px; 
-	color: black;
+  font-family: tahoma; 
+  font-size: 18px; 
+  color: black;
 }
 
 #main_heading {
-	font-family: tahoma; 
-	font-size: 24px; 
-	color: black;
+  font-family: tahoma; 
+  font-size: 24px; 
+  color: black;
 }
 
 div#header {
-	background-color: #b2e7ff;
-	padding: 20px 0px;
-	font-family: tahoma;
-	font-size: 24px;
-	color: black;
-	text-align: center;
-	border-bottom: 2px solid #0ab1ff;
+  background-color: #b2e7ff;
+  padding: 20px 0px;
+  font-family: tahoma;
+  font-size: 24px;
+  color: black;
+  text-align: center;
+  border-bottom: 2px solid #0ab1ff;
 }
 
 div#left_section {
-	background: #0ab1ff;
-	padding: 25px 10px;
-	float: left;
-	width: 25%;
-	height: 100%;
-	margin-right: 20px;
+  background: #0ab1ff;
+  padding: 25px 10px;
+  float: left;
+  width: 25%;
+  height: 100%;
+  margin-right: 20px;
 }
 
 ul {
-	padding-left: inherit;
+  padding-left: inherit;
 }
 ul li a {
-	font-family: tahoma;
-	font-size: 14px;
-	color: white;
-	text-decoration: none;
+  font-family: tahoma;
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
 }
 li {
-	color: white;
+  color: white;
 }
 
 
 div#right_section {
-	width: 100%;
-	height: 100%;
-	padding-top: 20px;
-	margin-left: ;
-	height: auto;
+  width: 100%;
+  height: 100%;
+  padding-top: 20px;
+  margin-left: ;
+  height: auto;
 }
 
 div#main_content {
-	font-family: tahoma;
-	font-size: 14px;
-	color: #802525;
+  font-family: tahoma;
+  font-size: 14px;
+  color: #802525;
 }
 
 div#main_content p{
-	padding-left: 20px;
+  padding-left: 20px;
 }
 
 div#side_content {
-	font-family: tahoma;
-	font-size: 12x;
-	color: black;
+  font-family: tahoma;
+  font-size: 12x;
+  color: black;
 }
 
 div#body {
-	height: auto;
+  height: auto;
 }
 
 div#footer {
-	padding: 20px 0px;
-	clear: left; 
-	background: #3cff78;
-	font: tahoma;
-	font-size: 24px;
-	color: black;
-	text-align: center;
-	border-bottom: 2px #0ab1ff;
+  padding: 20px 0px;
+  clear: left; 
+  background: #3cff78;
+  font: tahoma;
+  font-size: 24px;
+  color: black;
+  text-align: center;
+  border-bottom: 2px #0ab1ff;
 }
