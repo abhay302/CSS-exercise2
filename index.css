@@ -1,92 +1,63 @@
 body {
   margin: 0px;
   padding: 0px;
+  font-family: tahoma;
+  font-size: 14px;
 }
 
-#side_heading {
-  font-family: tahoma; 
-  font-size: 18px; 
-  color: black;
+#side_heading { 
+  font-size: 18px;
 }
 
-#main_heading {
-  font-family: tahoma; 
-  font-size: 24px; 
-  color: black;
+#main_heading, div#header, div#footer { 
+  font-size: 24px;
+}
+
+div#header, div#footer {
+  text-align: center;
 }
 
 div#header {
   background-color: #b2e7ff;
   padding: 20px 0px;
-  font-family: tahoma;
-  font-size: 24px;
-  color: black;
-  text-align: center;
   border-bottom: 2px solid #0ab1ff;
 }
 
 div#left_section {
   background: #0ab1ff;
   padding: 25px 10px;
-  float: left;
-  width: 25%;
-  height: ;
-  margin-right: 20px;
   flex: 25%;
 }
 
 ul {
   padding-left: inherit;
 }
-ul li a {
-  font-family: tahoma;
-  font-size: 14px;
+ul li,a {
   color: white;
   text-decoration: none;
-}
-li {
-  color: white;
 }
 
 
 div#right_section {
-  width: 100%;
-  height: auto;
-  padding-top: 20px;
-  margin-left:;
+  padding: 20px 0px 0px 20px;
   flex: 75%;
 }
 
 div#main_content {
-  font-family: tahoma;
-  font-size: 14px;
   color: #802525;
-  flex: ;
 }
 
-div#main_content p{
-  padding-left: ;
-}
 
 div#side_content {
-  font-family: tahoma;
-  font-size: 12x;
-  color: black;
-  flex: ;
+  font-size: 12px;
 }
 
 div#body {
-  height: ;
   display: flex;
 }
 
 div#footer {
-  padding: 20px 0px;
-  clear: left; 
+  padding: 20px 0px; 
   background: #3cff78;
-  font-family: tahoma;
-  font-size: 24px;
-  color: black;
-  text-align: center;
   border-bottom: 2px #0ab1ff;
 }
